@@ -1,3 +1,4 @@
 # ConvertEase-Online-File-Converte
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Mryasyn/ConvertEase-Online-File-Converte)
+🚧 This project is currently under active development. Some features may not be fully functional yet.  
+I'm sharing it early to collect feedback and invite collaboration from the community.
